@@ -72,12 +72,3 @@
 </div>
 
 ###
-
-<div align="center">
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
