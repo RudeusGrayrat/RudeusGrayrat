@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="LULU.png" width="4em" />
+  <img height="150" src="LULU.png" width="min100vh" />
 </div>
 
 ###
