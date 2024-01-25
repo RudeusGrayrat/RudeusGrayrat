@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Full Stack Web Developer</p>
+<p align="center"><strong>Full Stack Web Developer</strong></p>
 
 <p align="left">I'm from Perú<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Python
 
