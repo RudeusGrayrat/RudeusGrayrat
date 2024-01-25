@@ -6,13 +6,9 @@
 
 ###
 
-###
-
-
-###
+<p align="center">Full Stack Web Developer</p>
 
 <p align="left">I'm from Perú<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Python
-<h2 align="center">Full Stack Web Developer</h2>
 
 ###
 
