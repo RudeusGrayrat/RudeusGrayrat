@@ -14,7 +14,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <p>Mis proyectos:</p>
-<a hrf="https://miguelnc-pi-dogs.vercel.app/">Pi-Dogs</a>
+<a href="https://miguelnc-pi-dogs.vercel.app/">Pi-Dogs</a>
 
 ###
 
