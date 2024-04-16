@@ -1,17 +1,13 @@
-<div align="center" >
-  <img height="150" src="./LULU.png"  />
-</div>
-
 
 ###
 
-<h1 align="center">Hi👋, I'm Miguel Nicolas</h1>
+<h1 >¡Hola!, Soy Miguel Nicolas 👋</h1>
 
 ###
 
-<p align="center"><strong>Full Stack Web Developer</strong></p>
+<p align="center">Soy un<strong> Full Stack Web Developer</strong>. Me gusta crear aplicaciones web rápidas con Vite / React en el front, y en el back Node/ express y en la base de datos Postgresql/ Sequelize, fáciles de usar y construidas con las mejores prácticas.</p>
 
-<p align="left">I'm from Perú<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Python
+<p align="left">Soy de Perú</p><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Python
 
 ###
 
