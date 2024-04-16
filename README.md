@@ -1,8 +1,5 @@
-<style>
-  body{
-    background-image: url("LULU.png")
-  }
-</style>
+
+
 
 ###
 
