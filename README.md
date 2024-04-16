@@ -1,5 +1,5 @@
 <div align="center" >
-  <img height="150" src="lulu.png"  />
+  <img height="150" src="./LULU.png"  />
 </div>
 
 
