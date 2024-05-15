@@ -10,7 +10,7 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mi:</h3>
-<p align="left">Soy de Perú<br>- 📚 Actualmente estoy aprendiendo Kotlin<br></p>
+<p align="left">Soy de Perú<br>- 📚Tengo conocimientos en Java y actualmente estoy aprendiendo Spring Boot.<br></p>
 
 <p>Mis proyectos:</p>
 <a href="https://miguelnc-pi-dogs.vercel.app/">Pi-Dogs</a>
