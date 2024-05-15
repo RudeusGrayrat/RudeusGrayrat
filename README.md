@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">Soy un<strong> Full Stack Web Developer</strong>. Me gusta crear aplicaciones web rápidas con Vite / React en el front, y en el back Node/ express y en la base de datos Postgresql/ Sequelize, fáciles de usar y construidas con las mejores prácticas.</p>
+<p align="center">Soy un<strong> Full Stack Web Developer</strong>. Me gusta crear aplicaciones web rápidas con React / Next en el front, en el back Node y express, en la base de datos Postgresql/ Sequelize, fáciles de usar y construidas con las mejores prácticas.</p>
 
 ###
 
