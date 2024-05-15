@@ -10,6 +10,7 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mi:</h3>
+<p>🚀Mi objetivo profesional es invertir el mayor tiempo posible en ser un gran Desarrollador Web.</p>
 <p align="left">Soy de Perú<br>- 📚Tengo conocimientos en Java y actualmente estoy aprendiendo Spring Boot.<br></p>
 
 <p>Mis proyectos:</p>
