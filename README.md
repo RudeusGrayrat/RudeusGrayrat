@@ -13,7 +13,9 @@
 <p align="left">
   - Soy de Perú<br>
   - 🚀Mi objetivo profesional es invertir el mayor tiempo posible en ser un gran Desarrollador Web.<br>
-  - 📚Tengo conocimientos en Java y actualmente estoy aprendiendo Spring Boot.<br>
+  - 📚Tengo conocimientos en React, Next, Redux, Tailwind, Typescript, Javascript, <br/>
+    Node.js, Express, PostgreSQL, Sequelize, HTML, CSS.<br>
+  - También Java y actualmente estoy aprendiendo Spring Boot.<br>
 </p>
 
 <p>Mis proyectos:</p>
@@ -40,7 +42,8 @@
 
 ###
 
-<div align="left">
+<div style={{background: "black"}}>
+  <p>Front End</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -51,6 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <p>Back End: </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
