@@ -19,6 +19,7 @@
 </p>
 
 <p>Mis proyectos:</p>
+<p><br> Por el momento sin hosting gratuito!!!<br/></p>
 <a href="https://miguelnc-pi-dogs.vercel.app/">Pi-Dogs</a>
 <br>
 <a href="https://miguelnc-pi-dogs.vercel.app">H Music</a>
