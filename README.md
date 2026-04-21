@@ -18,11 +18,9 @@
   - También Java y actualmente estoy aprendiendo Spring Boot.<br>
 </p>
 
-<p>Mis proyectos:</p>
-<p><strong> Por el momento sin hosting gratuito!!!<strong/></p>
-<a href="https://miguelnc-pi-dogs.vercel.app/">Pi-Dogs</a>
-<br>
-<a href="https://miguelnc-pi-dogs.vercel.app">H Music</a>
+<p>Más de mi:</p>
+<p><strong> Pueden ver mis proyectos y experiencia en <strong/></p>
+<a href="https://miguelnc-pi-dogs.vercel.app/">Mi portafolio</a>
 
 ###
 
