@@ -19,8 +19,8 @@
 </p>
 
 <p>Más de mi:</p>
-<p><strong> Pueden ver mis proyectos y experiencia en <strong/></p>
-<a href="https://miguelnc-pi-dogs.vercel.app/">Mi portafolio</a>
+<span><strong> Pueden ver mis proyectos y experiencia en <strong/></span>
+<a href="https://miguelnicolas.vercel.app/">Mi portafolio</a>
 
 ###
 
